@@ -1,73 +1,28 @@
-# 👋 Olá, eu sou Arthur Pierre | Hi, I'm Arthur Pierre
+# 👋 Olá! Eu sou Arthur Pierre
 
-🎓 Estudante de Ciência da Computação  
-💻 Focado em desenvolvimento, automação e soluções tecnológicas  
-📍 Brasília, Distrito Federal - Brasil  
-🚀 Em constante evolução na área de tecnologia
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+de+Software;Automa%C3%A7%C3%A3o+com+Python;Intelig%C3%AAncia+Artificial+%26+Chatbots" alt="Apresentação animada" />
+</p>
 
----
-
-## 🇧🇷 Sobre mim | About Me 🇺🇸
-
-Sou estudante de Ciência da Computação apaixonado por tecnologia, programação e inovação.  
-Busco oportunidades de estágio em TI, suporte técnico, automação com Python e projetos com Inteligência Artificial.
-
-I'm a Computer Science student passionate about technology, programming, and innovation.  
-Currently looking for internship opportunities in IT, technical support, Python automation, and AI projects.
+<p align="center">
+  <a href="https://github.com/ArtPie-dev">
+    <img src="https://img.shields.io/badge/GitHub-ArtPie--dev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Estudante-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-00599C?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Bras%C3%ADlia%2C%20DF-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias | Technologies
+## 🧑‍💻 Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Sou estudante de **Ciência da Computação no UDF — Centro Universitário do Distrito Federal**, interessado em compreender, desenvolver e aplicar soluções tecnológicas para problemas reais.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Tenho interesse especial em desenvolvimento de software, automação de processos com Python, inteligência artificial e criação de aplicações que integrem diferentes tecnologias.
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+Minha trajetória combina conhecimentos de informática, experiência administrativa e atendimento, além de estudos contínuos em programação e desenvolvimento de sistemas.
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge)
+Atualmente, busco ampliar minha experiência prática, desenvolver projetos próprios e construir uma trajetória profissional na área de tecnologia.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🎯 Objetivos Atuais | Current Goals
-
-✅ Evoluir em Python e C++  
-✅ Construir projetos reais para portfólio  
-✅ Aprender Banco de Dados e SQL  
-✅ Desenvolver soluções com IA e Chatbots  
-✅ Conquistar oportunidade de estágio em TI
-
----
-
-## 📌 Áreas de Interesse | Interests
-
-💻 Desenvolvimento de Software  
-⚙️ Automação com Python  
-🧠 Inteligência Artificial  
-🤖 Chatbots  
-🛠️ Suporte Técnico  
-📊 Tecnologia aplicada a negócios
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtPie-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtPie-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contato | Contact
-
-📧 cb209648@gmail.com
-
----
-
-## 🚀 Frase Pessoal
-
-> Tecnologia não muda apenas sistemas. Muda futuros.
+- 🎓 Ciência da Computação — UDF.
+- 💻 Desenvolvimento de software e lógica de
