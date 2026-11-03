@@ -25,4 +25,121 @@ Minha trajetória combina conhecimentos de informática, experiência administra
 Atualmente, busco ampliar minha experiência prática, desenvolver projetos próprios e construir uma trajetória profissional na área de tecnologia.
 
 - 🎓 Ciência da Computação — UDF.
-- 💻 Desenvolvimento de software e lógica de
+- 💻 Desenvolvimento de software e lógica de programação.
+- 🐍 Automação e scripts com Python.
+- 🤖 Inteligência Artificial e desenvolvimento de chatbots.
+- 🗄️ Banco de dados e SQL.
+- 🔧 Suporte técnico e infraestrutura de TI.
+- 🚀 Aprendizado contínuo e desenvolvimento de projetos.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens de programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### Banco de dados e desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css" />
+</p>
+
+### Ferramentas e ambientes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+Aqui estão alguns dos projetos que representam minha evolução acadêmica e prática em programação.
+
+### 🌡️ Sistema de Monitoramento de Temperatura
+
+Aplicação desenvolvida em C para simular um sistema de monitoramento industrial, utilizando estruturas de repetição, validação de dados, contadores e identificação de condições críticas.
+
+**Tecnologias:** C · Lógica de programação · Estruturas de repetição
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/ArtPie-dev/Projeto-estruturas-de-repeticao)
+
+### 🔢 Constante de Kaprekar — 6174
+
+Implementação de um algoritmo baseado na constante matemática de Kaprekar, explorando operações numéricas, organização de algarismos e repetição de processos.
+
+**Tecnologias:** C · Algoritmos · Matemática computacional
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/ArtPie-dev/6174-Constante-de-Kaprekar-)
+
+### 🌡️ Conversor de Temperaturas
+
+Projeto introdutório em C voltado à conversão entre escalas de temperatura, aplicando operações matemáticas, entrada de dados e lógica de programação.
+
+**Tecnologias:** C · Operações matemáticas · Algoritmos
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/ArtPie-dev/Conversor-de-Temperaturas-em-C)
+
+### 🧮 Algoritmos e Pensamento Computacional
+
+Projeto acadêmico desenvolvido para praticar fundamentos de programação, resolução de problemas e construção de algoritmos em linguagem C.
+
+**Tecnologias:** C · Lógica de programação
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/ArtPie-dev/Algoritmos-e-Pensamento-Computacional)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArtPie-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtPie-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArtPie-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é continuar evoluindo como profissional de tecnologia, aprofundando meus conhecimentos em desenvolvimento de software e explorando aplicações práticas de inteligência artificial e automação.
+
+Tenho especial interesse em oportunidades de estágio nas áreas de:
+
+- Desenvolvimento e programação.
+- Suporte e infraestrutura de TI.
+- Automação de processos.
+- Inteligência Artificial e chatbots.
+- Tecnologia e análise de dados.
+
+Acredito que a melhor maneira de aprender é construir, experimentar, documentar e melhorar continuamente.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/ArtPie-dev">
+    <img src="https://img.shields.io/badge/GitHub-ArtPie--dev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Transformando curiosidade em conhecimento e conhecimento em soluções."</i>
+</p>
+
+<p align="center">
+  <sub>© 2026 Arthur Pierre de Aguiar da Silva · Desenvolvido com dedicação e curiosidade.</sub>
+</p>
